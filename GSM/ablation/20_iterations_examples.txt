@@ -1,0 +1,10 @@
+0  OUTPUT: $18. | ANSWER: 18 | EVALUATION: True
+1  OUTPUT: 3. | ANSWER: 3 | EVALUATION: True
+2  OUTPUT: $0. | ANSWER: 70000 | EVALUATION: False
+3  OUTPUT: 540 | ANSWER: 540 | EVALUATION: True
+4  OUTPUT: 140 | ANSWER: 20 | EVALUATION: False
+#####################
+Overall Accuracy = 3/5 = 0.600
+Used instruction:  When solving future math word problems, make sure to accurately calculate and keep track of the values and variables involved, and double-check all calculations to ensure an accurate solution.
+ Inside Examples Variance: [4.5, 0.1875, 0.75, 1.0, 13.25, 2.0, 2.75, 1.1875, 0.6875, 0.6875, 5.25, 7.5, 0.6875, 10.6875, 2.5, 22.6875, 0.6875, 0.6875, 4.6875, 0.6875, 3.6875, 5.25, 1.25, 6.1875, 0.1875, 4.75, 4.6875, 0.6875, 6.75, 0.1875, 2.5, 2.75, 3.6875, 0.1875, 0.1875, 5.25, 3.6875, 2.1875, 2.1875, 5.0, 2.0, 5.1875, 1.1875, 1.5, 1.1875, 4.1875, 6.25, 3.6875, 0.25, 6.5, 4.25, 25.25, 0.75, 0.6875, 2.1875, 5.5, 1.1875, 2.5, 0.6875, 2.1875, 16.0, 10.75, 1.6875, 2.6875, 4.25, 6.6875, 1.1875, 8.6875, 1.25, 2.5, 1.25, 0.6875, 0.1875, 2.5, 0.1875, 2.6875, 0.6875, 18.6875, 3.5, 0.75]
+Outside Examples Variance: 17.573281249999997
