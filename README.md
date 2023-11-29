@@ -1,4 +1,4 @@
-# Refined-Instruction-Reprompting: Prompt Optimization using Self-Refinement
+# Self-Reflection Helps Prompt Refinement: Self-Prompt Reflection
 
 **Table of Contents**
 
