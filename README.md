@@ -1,4 +1,4 @@
-# Self-Reflection Helps Prompt Refinement: Prompt Reflection
+# Self-Reflection Helps Prompt Refinement: Prompt Self-Reflection
 
 **Table of Contents**
 
